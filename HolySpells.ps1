@@ -2,127 +2,127 @@ $data = @(
     @(
         [PSCustomObject]@{
             function = "AngelicFeather_SpellName";
-            spellID = 121536
+            spellID = "spell=121536"
         },
         [PSCustomObject]@{
             function = "Apotheosis_SpellName";
-            spellID = 200183
+            spellID = "spell=200183"
         },
         [PSCustomObject]@{
             function = "BindingHeal_SpellName";
-            spellID = 32546
+            spellID = "spell=32546"
         },
         [PSCustomObject]@{
             function = "CircleofHealing_SpellName";
-            spellID = 204883
+            spellID = "spell=204883"
         },
         [PSCustomObject]@{
             function = "DesperatePrayer_SpellName";
-            spellID = 19236
+            spellID = "spell=19236"
         },
         [PSCustomObject]@{
             function = "DivineHymn_SpellName";
-            spellID = 64843
+            spellID = "spell=64843"
         },
         [PSCustomObject]@{
             function = "DivineStar_SpellName";
-            spellID = 110744
+            spellID = "spell=110744"
         },
         [PSCustomObject]@{
             function = "DispelMagic_SpellName";
-            spellID = 528
+            spellID = "spell=528"
         },
         [PSCustomObject]@{
             function = "Fade_SpellName";
-            spellID = 586
+            spellID = "spell=586"
         },
         [PSCustomObject]@{
             function = "FlashHeal_SpellName";
-            spellID = 2061
+            spellID = "spell=2061"
         },
         [PSCustomObject]@{
             function = "GuardianSpirit_SpellName";
-            spellID = 47788
+            spellID = "spell=47788"
         },
         [PSCustomObject]@{
             function = "Halo_SpellName";
-            spellID = 120517
+            spellID = "spell=120517"
         },
         [PSCustomObject]@{
             function = "Heal_SpellName";
-            spellID = 2060
+            spellID = "spell=2060"
         },
         [PSCustomObject]@{
             function = "HolyFire_SpellName";
-            spellID = 14914
+            spellID = "spell=14914"
         },
         [PSCustomObject]@{
             function = "HolyNova_SpellName";
-            spellID = 132157
+            spellID = "spell=132157"
         },
         [PSCustomObject]@{
             function = "HolyWordChastise_SpellName";
-            spellID = 88625
+            spellID = "spell=88625"
         },
         [PSCustomObject]@{
             function = "HolyWordSalvation_SpellName";
-            spellID = 265202
+            spellID = "spell=265202"
         },
         [PSCustomObject]@{
             function = "HolyWordSanctify_SpellName";
-            spellID = 34861
+            spellID = "spell=34861"
         },
         [PSCustomObject]@{
             function = "HolyWordSerenity_SpellName";
-            spellID = 2050
+            spellID = "spell=2050"
         },
         [PSCustomObject]@{
             function = "LeapofFaith_SpellName";
-            spellID = 73325
+            spellID = "spell=73325"
         },
         [PSCustomObject]@{
             function = "PowerInfusion_SpellName";
-            spellID = 10060
+            spellID = "spell=10060"
         },
         [PSCustomObject]@{
             function = "PowerWordFortitude_SpellName";
-            spellID = 21562
+            spellID = "spell=21562"
         },
         [PSCustomObject]@{
             function = "PowerWordShield_SpellName";
-            spellID = 17
+            spellID = "spell=17"
         },
         [PSCustomObject]@{
             function = "PrayerofHealing_SpellName";
-            spellID = 596
+            spellID = "spell=596"
         },
         [PSCustomObject]@{
             function = "PrayerofMending_SpellName";
-            spellID = 33076
+            spellID = "spell=33076"
         },
         [PSCustomObject]@{
             function = "Purify_SpellName";
-            spellID = 527
+            spellID = "spell=527"
         },
         [PSCustomObject]@{
             function = "Renew_SpellName";
-            spellID = 139
+            spellID = "spell=139"
         },
         [PSCustomObject]@{
             function = "ShadowWordDeath_SpellName";
-            spellID = 32379
+            spellID = "spell=32379"
         },
         [PSCustomObject]@{
             function = "ShadowWordPain_SpellName";
-            spellID = 589
+            spellID = "spell=589"
         },
         [PSCustomObject]@{
             function = "Smite_SpellName";
-            spellID = 585
+            spellID = "spell=585"
         },
         [PSCustomObject]@{
             function = "SymbolofHope_SpellName";
-            spellID = 64901
+            spellID = "spell=64901"
         },
         [PSCustomObject]@{
             function = "WrathfulFaerie_SpellName";
