@@ -1,7 +1,6 @@
 # wowhead-scraper
 1. Install the latest PowerShell 7
 2. Add your data to FunctionCreate.ps1
-
 ![](https://i.imgur.com/8Bwetqh.png)
 
 3. Run .\FunctionCreate.ps1 in a PowerShell 7 console
