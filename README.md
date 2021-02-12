@@ -6,5 +6,5 @@
 5. Add ```Settings.Add(new Setting("Game Client Language", new List<string>(){"English", "Deutsch", "Español", "Français", "Italiano", "Português Brasileiro", "Русский", "한국어", "简体中文"}, "English"));``` to your LoadSettings() method
 6. Add ```Language = GetDropDown("Game Client Language");``` to your Initialize() method
 7. Add ```private static string Language = "English";``` to the top of your rotation
-8. Add the new spell methods to your spell lists
+8. Add the new spell methods to your spell lists. This should be done in the Initialization method like the following images.
 9. Profit
