@@ -7,4 +7,5 @@
 6. Add ```Language = GetDropDown("Game Client Language");``` to your Initialize() method
 7. Add ```private static string Language = "English";``` to the top of your rotation
 8. Add the new spell methods to your spell lists. This should be done in the Initialization method like the following images.
+![](https://i.imgur.com/aJeL482.png)
 9. Profit
